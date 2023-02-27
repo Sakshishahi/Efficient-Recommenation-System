@@ -1,0 +1,65 @@
+#logo{
+    height: 70px;
+    width: 120px;
+    margin: 4px 4px;
+}
+nav{
+    margin: -50px 145px;
+    font-size: 22px;
+}
+.nav_bar{
+    margin: 12px;
+}
+#search{
+    border-radius: 8px;
+    width: 335px;
+    text-align: center;
+    font-size: 18px;
+    
+}
+.icon{
+    height: 20px;
+    width: 23px;
+}
+button{
+    height: 25px;
+    width: 120px;
+    border-radius: 8px;
+    background-color:rgb(93, 93, 247);
+
+}
+#select{
+    height: 35px;
+    margin: -40px 1298px;
+}
+#bottom_line{
+    margin-top: 580px;
+}
+.footer_icon{
+    height: 30px;
+}
+#head{
+    background-color: aqua;
+    height: 80px;
+}
+.dropDown{
+    background-color: white;
+    height: 130px;
+    width: 150px;
+    display: none;
+    position: absolute;
+    border-radius: 10px;
+}
+#dropMenu ul li:hover ul.dropDown{
+    display: block;
+    cursor: pointer;
+}
+ul li{
+    list-style: none;
+}
+#dropMenu ul li{
+    
+}
+
+
+
